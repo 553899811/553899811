@@ -1,7 +1,7 @@
 ### Hi ! Welcome to My Site!
 ### 🔭 I’m currently working on KuaiShou.
 ### 🌱 I’m currently learning Operation System and RPC Principle.
-### 📫 How to reach me: littledream1502@gamil.com
+### 📫 How to reach me: littledream1502@gmail.com
 
 <!--
 **553899811/553899811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
