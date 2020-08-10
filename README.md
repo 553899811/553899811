@@ -1,5 +1,4 @@
 ### Hi ! Welcome to My Site!
-### 🔭 I’m currently working on KuaiShou.
 ### 🌱 I’m currently learning Operation System and RPC Principle.
 ### 📫 How to reach me: littledream1502@gmail.com
 
