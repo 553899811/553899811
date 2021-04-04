@@ -2,7 +2,7 @@
 
 ### Hi, I am David, a Java Programmer From BeiJing. It's been a pleasure meeting you here !  🥰
 
-- 🔭 I’m currently learning RPC principle.
+- 🔭 I’m currently learning Netty and RPC principle.
 - 😄 I'm a Continuous Learner.
 - 🔗 I'm the author of Java Employment Guide [NewBie-plan](https://github.com/553899811/NewBie-Plan/) .If you think it works, Don't be stingy with Your Star !
 - 🔗 I'm the author of [Hermes](https://github.com/553899811/Hermes) RPC Framework (Under Development) Based on Java. 
