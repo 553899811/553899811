@@ -1,6 +1,6 @@
 
 
-### Hi, I am David, a Java Programmer From BeiJing. It's been a pleasure meeting you here !  🥰
+### Hi, I am David, a Java Programmer From BeiJing. It's Been A Pleasure Meeting You Here !  🥰
 
 - 🔭 I’m currently learning [Netty](https://www.w3cschool.cn/essential_netty_in_action/) and [RPC](https://github.com/553899811/Hermes) principle.
 - 😄 I'm a Continuous Learner.
