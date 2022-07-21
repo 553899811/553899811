@@ -2,7 +2,6 @@
 
 ### Hi, I am David. It's Been A Pleasure Meeting You Here !  🥰
 
-- 🔭 I’m currently learning [Netty](https://www.w3cschool.cn/essential_netty_in_action/) and [RPC](https://github.com/553899811/Hermes) principle.
 - 😄 I'm a Continuous Learner.
 - 🔗 I'm the author of Java Employment Guide [NewBie-plan](https://github.com/553899811/NewBie-Plan/) .If you think it works, Don't be stingy with Your Star !
 - 🔗 I'm the author of [Hermes](https://github.com/553899811/Hermes) RPC Framework (Under Development) Based on Java. 
